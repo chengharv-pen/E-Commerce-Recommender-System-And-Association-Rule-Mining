@@ -1,3 +1,5 @@
+# Big Data Analytics - E-Commerce Recommender System & Association Rule Mining
+
 ## Installation & Dependencies
 Ensure you have Python installed, then install the required packages:
 ```sh
